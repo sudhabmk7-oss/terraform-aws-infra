@@ -29,19 +29,10 @@ terraform apply
 ## 🧹 Cleanup
 
 terraform destroy
-
-## 📸 Output
-
-* EC2 instance created
-* Public IP generated
-
-## 💡 Key Concepts Used
-
-* Providers & Resources
-* Variables & Outputs
-* Implicit Dependencies
-* Infrastructure as Code (IaC)
-
-📸 Screenshots
-🔸 EC2 Instance Created
-🔸 Terraform Apply Output
+📸 Output
+EC2 instance created successfully
+Public IP generated
+💡 Key Learnings
+Infrastructure as Code
+Terraform variables & outputs
+AWS networking basics
