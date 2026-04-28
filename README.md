@@ -41,3 +41,7 @@ terraform destroy
 * Variables & Outputs
 * Implicit Dependencies
 * Infrastructure as Code (IaC)
+
+📸 Screenshots
+🔸 EC2 Instance Created
+🔸 Terraform Apply Output
